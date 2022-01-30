@@ -3,5 +3,8 @@ public class Main {
         System.out.println("Helllo world");
         System.out.println();
         System.out.println("some changes");
+
+        System.out.println("это вывод от Игоря");
+
     }
 }
