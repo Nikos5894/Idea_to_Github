@@ -8,5 +8,8 @@ public class Main {
 
         System.out.println("new txt");
 
+
+        System.out.println();
+
     }
 }
