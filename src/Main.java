@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("это вывод от Игоря");
 
+        System.out.println("new txt");
+
     }
 }
